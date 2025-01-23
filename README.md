@@ -14,8 +14,7 @@ In programming, abstraction allows us to work with high-level concepts (like arr
 
 Levels of Abstraction in Programming
 The image below shows the levels of abstraction in an electronic computing system. Here’s how it maps to programming:
-
-![Abstraction Levels]("D:\abstraction.jpg")
+![Image](https://github.com/user-attachments/assets/2835bee6-9582-425d-a100-f04a5e748d4c)
 
 
 Level	Example in Programming
