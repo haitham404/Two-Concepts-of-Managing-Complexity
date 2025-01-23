@@ -1,11 +1,11 @@
 TWO CONCEPTS OF MANAGING COMPLEXITY
 =================================================
 
-INTRODUCTION
+introduction
 ------------
 In programming, managing complexity is one of the most important skills you’ll develop. Modern systems are built from millions of components, and understanding every detail is impossible. Instead, we use techniques like *abstraction* and *encapsulation* to simplify and organize code effectively.
 
-WHAT IS ABSTRACTION?
+what is  abstraction?
 -------------------
 Abstraction is the process of hiding unnecessary details and focusing on what’s important. Think of it like driving a car:
 - You don’t need to know how the engine works to drive the car.
@@ -13,7 +13,7 @@ Abstraction is the process of hiding unnecessary details and focusing on what’
 
 In programming, abstraction allows us to work with high-level concepts (like arrays) without worrying about low-level details (like memory management).
 
-LEVELS OF ABSTRACTION IN PROGRAMMING
+levels of abstraction in programming
 ------------------------------------
 The image below shows the levels of abstraction in an electronic computing system and how it maps to programming:
 ![Image](https://github.com/user-attachments/assets/2266e45f-7376-4aa0-a3f3-0545f1e5b34d)
