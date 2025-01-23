@@ -45,6 +45,14 @@ example of encapsulation in java
 --------------------------------
 Here’s a practical example of encapsulation in Java:
 
+=================================================
+BankAccount Class Example
+=================================================
+Below is an example of encapsulation in Java using the `BankAccount` class:
+
+-------------------------------------------------
+CODE:
+-------------------------------------------------
 class BankAccount {
     // Data (attributes) is private, so it cannot be accessed directly from outside the class.
     private double balance;
@@ -87,6 +95,7 @@ public class Main {
         System.out.println("Current Balance: " + account.getBalance()); // Current Balance: 500
     }
 }
+-------------------------------------------------
 
 why is this encapsulation?
 --------------------------
