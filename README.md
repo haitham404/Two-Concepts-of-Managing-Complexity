@@ -1,4 +1,4 @@
-TWO CONCEPTS OF MANAGING COMPLEXITY
+two concepts of manging complexty
 =================================================
 
 introduction
