@@ -1,4 +1,3 @@
-=================================================
 TWO CONCEPTS OF MANAGING COMPLEXITY
 =================================================
 
@@ -17,6 +16,8 @@ In programming, abstraction allows us to work with high-level concepts (like arr
 LEVELS OF ABSTRACTION IN PROGRAMMING
 ------------------------------------
 The image below shows the levels of abstraction in an electronic computing system and how it maps to programming:
+![Image](https://github.com/user-attachments/assets/2266e45f-7376-4aa0-a3f3-0545f1e5b34d)
+
 
 Level                Example in Programming
 -------------------------------------------------
@@ -27,7 +28,6 @@ Architecture Level   The Java Virtual Machine (JVM).
 Logic Level          The logic gates and circuits in hardware.
 
 When you use an array in Java, you’re working at the application level. You don’t need to worry about how the JVM or OS manages memory—this is abstraction in action.
-![Image](https://github.com/user-attachments/assets/2266e45f-7376-4aa0-a3f3-0545f1e5b34d)
 
 What is Encapsulation?
 Encapsulation means bundling data (like array elements) and methods (like length, indexing, or loops) into a single unit, such as the Array class.
