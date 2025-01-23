@@ -1,4 +1,4 @@
-two concepts of manging complexty
+Two concepts of manging complexty
 =================================================
 
 introduction
@@ -61,14 +61,16 @@ key benefits of encapsulation
 3. *Code Maintainability*: Groups related data and methods, making the code easier to maintain and extend.
 4. *Flexibility*: Allows you to change the internal implementation without affecting the external interface.
 
+final definition of encapsulation
+---------------------------------
+Encapsulation is the practice of bundling data (attributes) and methods (functions) into a single unit (like a class) and controlling access to the data, often by making it private and exposing only necessary methods to interact with it.
+
+
 abstraction vs. encapsulation
 -----------------------------
 - *Abstraction*: Hides *implementation details* (e.g., how a method works internally).
 - *Encapsulation*: Bundles *data and methods* together and controls access to them.
 
-final definition of encapsulation
----------------------------------
-Encapsulation is the practice of bundling data (attributes) and methods (functions) into a single unit (like a class) and controlling access to the data, often by making it private and exposing only necessary methods to interact with it.
 
 
 
