@@ -73,20 +73,6 @@ Encapsulation is the practice of bundling data (attributes) and methods (functio
 
 
 
-resources
----------------------------------
-Here are two beginner-friendly resources to learn about abstraction and encapsulation:
-
-1. **Stack Overflow: What is Abstraction in Programming?**
-   - Link: https://stackoverflow.com/questions/2502971/what-is-abstraction-in-programming
-   - A simple explanation of abstraction with examples for beginners.
-
-2. **Stack Overflow: What is Encapsulation in Java?**
-   - Link: https://stackoverflow.com/questions/24626/abstraction-vs-encapsulation-in-java
-   - A clear explanation of encapsulation and how it differs from abstraction.
-
--------------------------------------------------
-
 
 
 
