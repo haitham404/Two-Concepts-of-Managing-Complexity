@@ -29,7 +29,7 @@ Logic Level          The logic gates and circuits in hardware.
 
 When you use an array in Java, you’re working at the application level. You don’t need to worry about how the JVM or OS manages memory—this is abstraction in action.
 
-WHAT IS Encapsulation?
+what Encapsulation?
 -------------------
 Encapsulation means bundling data (like array elements) and methods (like length, indexing, or loops) into a single unit, such as the Array class.
 
