@@ -19,13 +19,16 @@ The image below shows the levels of abstraction in an electronic computing syste
 ![Image](https://github.com/user-attachments/assets/2266e45f-7376-4aa0-a3f3-0545f1e5b34d)
 
 
-Level                Example in Programming
--------------------------------------------------
-Application Level    Your program (e.g., a Java application).
-Software Level       The Java programming language and its libraries.
-Operating Systems    The OS that manages memory and resources.
-Architecture Level   The Java Virtual Machine (JVM).
-Logic Level          The logic gates and circuits in hardware.
+
+1. Application Software: Your Java program operates at this level, using arrays, objects, and libraries.
+2. Operating Systems: The OS manages resources (e.g., memory) for your Java program.
+3. Architecture: The JVM interprets Java bytecode and interacts with the OS.
+4. Micro-architecture: The CPU executes JVM instructions using registers and datapaths.
+5. Logic: Logic gates (e.g., AND, NOT) form the basis of CPU operations.
+6. Digital/Analog Circuits: These implement logic gates using transistors and amplifiers.
+7. Devices/Physics: Transistors and electrons form the foundation of all computing.
+
+Abstraction hides lower-level complexities, allowing you to focus on writing Java code without worrying about hardware or physics.
 
 When you use an array in Java, you’re working at the application level. You don’t need to worry about how the JVM or OS manages memory—this is abstraction in action.
 
