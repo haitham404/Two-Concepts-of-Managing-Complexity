@@ -13,7 +13,7 @@ Abstraction is the process of hiding unnecessary details and focusing on what’
 
 In programming, abstraction allows us to work with high-level concepts (like arrays) without worrying about low-level details (like memory management).
 
-levels of abstraction in programming
+levels of abstraction 
 ------------------------------------
 The image below shows the levels of abstraction in an electronic computing system and how it maps to programming:
 ![Image](https://github.com/user-attachments/assets/2266e45f-7376-4aa0-a3f3-0545f1e5b34d)
