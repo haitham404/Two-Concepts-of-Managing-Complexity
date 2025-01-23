@@ -50,37 +50,14 @@ BankAccount Class Example
 =================================================
 Below is an example of encapsulation in Java using the `BankAccount` class:
 
--------------------------------------------------
-CODE:
--------------------------------------------------
-class BankAccount {
-    // Data (attributes) is private, so it cannot be accessed directly from outside the class.
-    private double balance;
+## BankAccount Class Example
+Below is an example of encapsulation in Java using the `BankAccount` class:
 
-    // Public method to deposit money
-    public void deposit(double amount) {
-        if (amount > 0) {
-            balance += amount;
-            System.out.println("Deposited: " + amount);
-        } else {
-            System.out.println("Invalid deposit amount.");
-        }
-    }
-
-    // Public method to withdraw money
-    public void withdraw(double amount) {
-        if (amount > 0 && amount <= balance) {
-            balance -= amount;
-            System.out.println("Withdrawn: " + amount);
-        } else {
-            System.out.println("Invalid withdrawal amount or insufficient balance.");
-        }
-    }
-
-    // Public method to check balance
-    public double getBalance() {
-        return balance;
-    }
+### Code:
+```java
+// Public method to check balance
+public double getBalance() {
+    return balance;
 }
 
 public class Main {
@@ -95,7 +72,6 @@ public class Main {
         System.out.println("Current Balance: " + account.getBalance()); // Current Balance: 500
     }
 }
--------------------------------------------------
 
 why is this encapsulation?
 --------------------------
