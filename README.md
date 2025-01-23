@@ -45,33 +45,8 @@ example of encapsulation in java
 --------------------------------
 Here’s a practical example of encapsulation in Java:
 
-=================================================
-BankAccount Class Example
-=================================================
-Below is an example of encapsulation in Java using the `BankAccount` class:
 
-## BankAccount Class Example
-Below is an example of encapsulation in Java using the `BankAccount` class:
 
-### Code:
-```java
-// Public method to check balance
-public double getBalance() {
-    return balance;
-}
-
-public class Main {
-    public static void main(String[] args) {
-        BankAccount account = new BankAccount();
-
-        // Using encapsulated methods to interact with the data
-        account.deposit(1000); // Deposited: 1000
-        account.withdraw(500); // Withdrawn: 500
-
-        // Accessing balance through a public method
-        System.out.println("Current Balance: " + account.getBalance()); // Current Balance: 500
-    }
-}
 
 why is this encapsulation?
 --------------------------
