@@ -29,23 +29,20 @@ Logic Level          The logic gates and circuits in hardware.
 
 When you use an array in Java, you’re working at the application level. You don’t need to worry about how the JVM or OS manages memory—this is abstraction in action.
 
-=================================================
-WHAT IS ENCAPSULATION?
-=================================================
+WHAT IS Encapsulation?
+-------------------
 Encapsulation means bundling data (like array elements) and methods (like length, indexing, or loops) into a single unit, such as the Array class.
 
 When you use built-in methods like `array.length` or `array[index]`, you don’t need to know how they work internally—they are encapsulated within the Array class.
 
--------------------------------------------------
-BENEFITS OF ENCAPSULATION
--------------------------------------------------
+benfits of Encapsulation?
+-------------------
 1. *Hides Implementation Details*: Keeps the internal workings of a class hidden from the user.
 2. *Provides a Clean Interface*: Allows interaction with the class through well-defined methods.
 3. *Improves Code Organization*: Groups related data and methods together, making the code easier to maintain.
 
--------------------------------------------------
-EXAMPLE: ENCAPSULATION IN JAVA
--------------------------------------------------
+ Encapsulation in java
+-------------------
 Here’s an example of encapsulation in Java:
 
 int[] numbers = {1, 2, 3, 4, 5};
@@ -53,20 +50,12 @@ System.out.println(numbers.length); // Encapsulated method to get array length
 
 In this example, the `length` property is encapsulated within the Array class. You don’t need to know how it calculates the length—you just use it.
 
-=================================================
-CONCLUSION
-=================================================
+
+ Conculosion
+-------------------
 Understanding and applying *abstraction* and *encapsulation* are essential for managing complexity in software development. These concepts allow you to focus on high-level functionality while hiding unnecessary details, making your code cleaner, more organized, and easier to maintain.
 
-=================================================
-CONTRIBUTING
-=================================================
-We welcome contributions to this repository! If you have examples, improvements, or additional explanations, feel free to submit a pull request. Please follow the contribution guidelines.
 
-=================================================
-LICENSE
-=================================================
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
