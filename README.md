@@ -1,25 +1,33 @@
-Two Concepts of Managing Complexity
-Introduction
-In programming, managing complexity is one of the most important skills you’ll develop. Modern systems are built from millions of components, and understanding every detail is impossible. Instead, we use techniques like abstraction and encapsulation to simplify and organize code effectively.
+=================================================
+TWO CONCEPTS OF MANAGING COMPLEXITY
+=================================================
 
-What is Abstraction?
+INTRODUCTION
+------------
+In programming, managing complexity is one of the most important skills you’ll develop. Modern systems are built from millions of components, and understanding every detail is impossible. Instead, we use techniques like *abstraction* and *encapsulation* to simplify and organize code effectively.
+
+WHAT IS ABSTRACTION?
+-------------------
 Abstraction is the process of hiding unnecessary details and focusing on what’s important. Think of it like driving a car:
+- You don’t need to know how the engine works to drive the car.
+- You only need to know how to use the steering wheel, pedals, and gears.
 
-You don’t need to know how the engine works to drive the car.
-You only need to know how to use the steering wheel, pedals, and gears.
 In programming, abstraction allows us to work with high-level concepts (like arrays) without worrying about low-level details (like memory management).
 
-Levels of Abstraction in Programming
+LEVELS OF ABSTRACTION IN PROGRAMMING
+------------------------------------
 The image below shows the levels of abstraction in an electronic computing system and how it maps to programming:
 
+Level                Example in Programming
+-------------------------------------------------
+Application Level    Your program (e.g., a Java application).
+Software Level       The Java programming language and its libraries.
+Operating Systems    The OS that manages memory and resources.
+Architecture Level   The Java Virtual Machine (JVM).
+Logic Level          The logic gates and circuits in hardware.
 
-Level	Example in Programming
-Application Level	Your program (e.g., a Java application that uses arrays).
-Software Level	The Java programming language and its libraries.
-Operating Systems	The OS that manages memory and resources for your program.
-Architecture Level	The Java Virtual Machine (JVM) that executes your code.
-Logic Level	The logic gates and circuits that make up the hardware running your program.
 When you use an array in Java, you’re working at the application level. You don’t need to worry about how the JVM or OS manages memory—this is abstraction in action.
+![Image](https://github.com/user-attachments/assets/2266e45f-7376-4aa0-a3f3-0545f1e5b34d)
 
 What is Encapsulation?
 Encapsulation means bundling data (like array elements) and methods (like length, indexing, or loops) into a single unit, such as the Array class.
