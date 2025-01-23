@@ -44,7 +44,7 @@ Encapsulation is like a *capsule* that wraps data and methods together, exposing
 example of encapsulation in java
 --------------------------------
 Here’s a practical example of encapsulation in Java:
-
+![Image](https://github.com/user-attachments/assets/422289e5-6859-44e1-8c34-d1cfe1bc0403)
 
 
 
